@@ -1,4 +1,4 @@
-# Daily Brief on International Epidemic Situation of COVID-19
+# Brief on COVID-19 International Epidemic Situation
 
 [March 3](reports\Mar 3.pdf)
 
